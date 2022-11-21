@@ -13,6 +13,7 @@
 <script setup>
 import TabBar from "@/components/tab-bar.vue"
 import Loading from "./components/loading.vue";
+// text1
 </script>
 
 <style lang="less" scoped>
